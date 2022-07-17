@@ -6,9 +6,9 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['628565337357', '️Oᴡɴᴇʀ One ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6285751337466', '️Oᴡɴᴇʀ Two ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Three ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
+  ['628565337357', '️Oᴡɴᴇʀ One Awy_', true],
+  ['6285751337466', '️Oᴡɴᴇʀ Two Miaw', true],
+  ['6283848959158', '️Oᴡɴᴇʀ Three Rahmad', true],
   ['6282195322106', '️Oᴡɴᴇʀ Four ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
   ['6282195322106', '️Oᴡɴᴇʀ Five ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
   ['6282195322106', '️Oᴡɴᴇʀ Six ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
@@ -73,13 +73,13 @@ global.apikeys = keyalpha
 /*Number*/
 global.nomorbot = '6285751337466'
 global.nomorown = '628565337357'
-global.namebot = 'Miaw SisteR༺'
-global.nameown = 'Awy_'
+global.namebot = '𝐑𝐀𝐍𝐙•𝐁𝐎𝐓༽༼𝐙'
+global.nameown = 'Rahmad'
 
 /*Watermark*/
-global.wm = '                「 Miaw-Sister あ⁩ 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ Awy_ ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Miaw'
+global.wm = '                「 𝐑𝐀𝐍𝐙•𝐁𝐎𝐓༽༼𝐙 ⁩」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ Rahmad ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝐑𝐀𝐍𝐙•𝐁𝐎𝐓༽༼𝐙'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -420,9 +420,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ Miaw Sister\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ 𝐑𝐀𝐍𝐙•𝐁𝐎𝐓༽༼𝐙\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Created By'
-global.author = 'Miaw Sister X Awy_'
+global.author = 'Miaw Sister X 𝐑𝐀𝐍𝐙•𝐁𝐎𝐓༽༼𝐙'
 global.multiplier = 69
 
 /*Pesan*/
